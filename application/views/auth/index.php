@@ -24,7 +24,7 @@
 
         <!-- Branding -->
         <img class="site-logo" src="public/images/company_logo.png" />
-        <p class="school-sub">Accounting Management System</p>
+        <p class="school-sub">Athena</p>
 
         <!-- Flash error -->
         <?php if ($this->session->flashdata('error')): ?>
